@@ -2,4 +2,4 @@
 new project
 hello humans!
 
-This is the 
+This is the first nuxt App
