@@ -1,0 +1,2 @@
+# firstnuxt
+new project
